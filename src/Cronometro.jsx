@@ -67,7 +67,6 @@ class Cronometro extends Component {
     this.setState({
       minutes: "00",
       seconds: "00",
-      counting: false,
     })
   }
 

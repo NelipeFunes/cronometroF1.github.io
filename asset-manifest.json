@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/%7Brepo-name%7D/static/css/main.e6c13ad2.css",
-    "main.js": "/%7Brepo-name%7D/static/js/main.091023ac.js",
-    "static/js/787.50378447.chunk.js": "/%7Brepo-name%7D/static/js/787.50378447.chunk.js",
-    "index.html": "/%7Brepo-name%7D/index.html",
-    "main.e6c13ad2.css.map": "/%7Brepo-name%7D/static/css/main.e6c13ad2.css.map",
-    "main.091023ac.js.map": "/%7Brepo-name%7D/static/js/main.091023ac.js.map",
-    "787.50378447.chunk.js.map": "/%7Brepo-name%7D/static/js/787.50378447.chunk.js.map"
+    "main.css": "/cronometroF1.github.io/static/css/main.e6c13ad2.css",
+    "main.js": "/cronometroF1.github.io/static/js/main.ca30eb3c.js",
+    "static/js/787.50378447.chunk.js": "/cronometroF1.github.io/static/js/787.50378447.chunk.js",
+    "index.html": "/cronometroF1.github.io/index.html",
+    "main.e6c13ad2.css.map": "/cronometroF1.github.io/static/css/main.e6c13ad2.css.map",
+    "main.ca30eb3c.js.map": "/cronometroF1.github.io/static/js/main.ca30eb3c.js.map",
+    "787.50378447.chunk.js.map": "/cronometroF1.github.io/static/js/787.50378447.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.091023ac.js"
+    "static/js/main.ca30eb3c.js"
   ]
 }
